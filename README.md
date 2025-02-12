@@ -1,8 +1,12 @@
-# React + Vite
+# [Simple Timer in ReactJS (vite)](https://youtu.be/wLE8GVn6EOU)
+# [Code Sandbox](https://codesandbox.io/p/sandbox/ctk7qn?file=%2Fsrc%2FApp.js%3A17%2C26)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/e9f3e593-2d5f-44aa-9f07-7cf9fc45ab8c)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## installation on local system
+- `git clone` the repo
+- `cd` into the directory
+- `npm install`
+- `npm run dev`
+- `click on localhost link`
